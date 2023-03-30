@@ -1,0 +1,213 @@
+form{
+    margin-top: 5%;
+    margin-left: 9%;
+    padding-left: 20%;
+    padding-right: 21%;
+}
+.form-label{
+    color: azure;
+}
+body{
+    background-color: #333174;
+}
+
+.nav-logo-principal{
+    margin-left: 60px;
+    margin-top: 40px;
+    height: 150px;
+    width: 150px;
+}
+.nav-logo{
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.perfil-logo{
+    margin-left: 30px;
+    height: 120px;
+    width: 120px;
+}
+.caja-logo{
+    margin-left: 30px;
+    height: 120px;
+    width: 120px;
+}
+.compra-logo{
+    margin-left: 30px;
+    height: 120px;
+    width: 120px;
+}
+.inventario-logo{
+    margin-left: 40px;
+    height: 110px;
+    width: 110px;
+}
+.ajustes-logo{
+    margin-left: 30px;
+    height: 120px;
+    width: 120px;
+}
+.salir-logo{
+    margin-left: 30px;
+    height: 120px;
+    width: 120px;
+}
+a{
+    text-decoration: none;
+}
+.registro{
+    color: azure;
+}
+.decor{
+    text-decoration: none;
+    color: azure;
+}
+.main{
+    display: flex;
+    text-align: start;
+}
+.main-inventario{
+    display: flex;
+    text-align: start;
+}
+.opciones{
+    width: 20%;
+
+}
+.ajustar{
+    width: 80%;
+}
+.ajustar-nav{
+    width: 20%;
+}
+.ajustar-icono{
+    display: inline;
+}
+.inventario{
+    background-color: #E8F7FD;
+    width: 80%;
+    display: table;
+}
+.container.mt-4{
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.btn.btn-primary{
+    margin-left: 5%;
+}
+.container{
+    margin: 0;
+    padding: 0;
+}
+.title-inventario{
+    padding-top: 20px;
+    padding-left: 35%;
+    color: #4CBFCE;
+}
+.ajustar-inventario{
+    background-color: #E8F7FD;
+    width: 80%;
+}
+.ajustar-perfil{
+    display:inline;
+    background-color: #E8F7FD;
+    width: 70%;
+    margin-right: 10%;
+}
+
+.foto-perfil{
+    padding-left: 20px;
+    padding-top:  20px;
+    width: 30%;
+    height: 20%;
+}
+.contenido-perfil{
+
+    width: 70%;
+}
+.allies-images{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.btn-group{
+    margin-left: 50%;
+    padding-top: 20px;
+}
+.NOMBE{
+    padding-top: 20px;
+}
+.btn.btn-primary{
+    background-color: #4CBFCE;
+    border-color: #4CBFCE;
+}
+.ajustar-perfil-contenido-1{
+    display: flex;
+}
+.ajustar-perfil-contenido-2{
+    margin-top: 20px;
+    display: flex;
+    background-color: #E8F7FD;
+}
+
+.list-group{
+    margin-top: 60px;
+    margin-left: 40px;
+    width: 30%;
+}
+.list-group-item{
+    background-color: #E8F7FD;
+}
+.nav-logo-perfil{
+    margin-left: 140px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:#333174 1px solid;
+}
+.main-compras{
+    display: flex;
+    text-align: start;
+}
+.ajustar-compras{
+    padding-left: 40px;
+    width: 80%;
+    background-color: #E8F7FD;
+}
+.ajustar-titulo-compras{
+    width: 80%;
+    background-color: #E8F7FD;
+    padding-left: 30%;
+    padding-top: 40px;
+    color:#4CBFCE;
+}
+.navbar{
+    border-top: 50px;
+}
+.d-flex{
+    padding: 0;
+}
+.Todos-contenidos{
+    display: flex;
+    text-align: start;
+}
+.contenido{
+    width: 100%;
+    height: 250px;
+    margin-top: 40px;
+}
+.IMG-ref{
+    width: 200px;
+    height: 200px;
+}
+.contenido-img{
+    width: 40%;
+    height: 250px;
+    float: left;
+}
+.contenido-p{
+    width: 60%;
+    height: 250px;
+    float: right;
+}
